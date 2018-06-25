@@ -5,5 +5,6 @@ if block_given?
     yield(array[i])
     i+=1
   end
+  array
 else 
 end
