@@ -7,6 +7,6 @@ if block_given?
   end
   array
 else
-  puts "No block given"
+  array
 end
 end
