@@ -6,5 +6,6 @@ if block_given?
     i+=1
   end
   array
-else 
+else
+  puts "No block given"
 end
